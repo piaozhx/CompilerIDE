@@ -1,0 +1,8 @@
+QToolButton{
+Background:rgb(34,34,34);
+border-style: solid;
+border-width: 0px;
+}
+QToolButton:hover{
+Background:rgb(188,47,46);
+}

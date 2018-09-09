@@ -1,7 +1,10 @@
 # Compiler++ IDE
 
 ### WHy use Compiler++ IDE?
-* cool   
+* cool
+* support mips with 57 instructions
+* compile code from C, asm to coe code
+* has amazing debug model which can show all code in the same window.
 
 
 ### Environment

@@ -225,7 +225,7 @@ class TestApp(QMainWindow):
         self.init_layout()
         self.init_action()
         self.center(1000, 1000)
-        self.setWindowTitle("Text Editor")
+        self.setWindowTitle("CompilerIDE")
 
     def init_layout(self):
         layout = QVBoxLayout()
